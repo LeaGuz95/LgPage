@@ -53,7 +53,7 @@ Portfolio web moderno e interactivo que combina desarrollo de software y arte di
 
 ## 🎬 Demo
 
-🔗 **[Ver Demo en Vivo](https://github.com/LeaGuz95/LgPage)** 
+🔗 **[Ver Demo en Vivo](https://leaguz95.github.io/LgPage/)** 
 
 ![Portfolio Preview](assets/images/proyectos/Portfolio.png)
 
