@@ -541,7 +541,7 @@ class EasterEggs {
         this.sound.volume = 0.9; // 0 a 1
         this.rainImagePath = 'assets/images/arte/Puchaino.gif';
         this.init();
-     }
+    }
     
     init() {
         this.setupKonamiCode();
