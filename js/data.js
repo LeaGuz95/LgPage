@@ -624,7 +624,7 @@ const portfolioData = {
        
             title: "Tanke ",
             description: "bicho para tankear  ",
-            image:"assets/images/arte/original/Alien tanque.png", 
+            image:"assets/images/arte/original/Alien Tanque.png", 
             category: "original",
             year: 2025
         },
