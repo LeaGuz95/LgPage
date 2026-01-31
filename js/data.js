@@ -47,7 +47,7 @@ const portfolioData = {
             title: "PulseBoard",
             category: "software",
             description: "Barra de sonidos para streamers",
-            image: "assets/images/proyectos/pulseboard.png", 
+            image: "assets/images/proyectos/Pulseboard.png", 
             technologies: ["python"],
             github: "https://github.com/LeaGuz95/PulseBoard", 
             featured: true
@@ -89,7 +89,7 @@ const portfolioData = {
             title: "Obligatorio Programacion 3 (facultad)",
             category: "web",
             description: "Obligatorio de la materia Programacion 3 de la facultad",
-            image: "assets/images/proyectos/Prog3.png", 
+            image: "assets/images/proyectos/prog3.png", 
             technologies: ["C#",".Net","Api ","Swagger","Patron Repositorio" ],
             github: "https://github.com/LeaGuz95/N3B-Obligatorio-321788", //pendente
             demo: null,
@@ -575,7 +575,7 @@ const portfolioData = {
         
             title: "Guerrero 3",
             description: "Dibujo random de un guerrero  ",
-            image:"assets/images/arte/original/guerrero 3.png", 
+            image:"assets/images/arte/original/Guerrero 3.png", 
             category: "original",
             year: 2025
         },
@@ -600,7 +600,7 @@ const portfolioData = {
          
             title: "Alien ",
             description: "un alien ",
-            image:"assets/images/arte/original/alien.png", 
+            image:"assets/images/arte/original/Alien.png", 
             category: "original",
             year: 2025
         },
@@ -608,7 +608,7 @@ const portfolioData = {
       
             title: "Araña ",
             description: "Alien araña ponele  ",
-            image:"assets/images/arte/original/alien2.png", 
+            image:"assets/images/arte/original/Alien2.png", 
             category: "original",
             year: 2025
         },
@@ -624,7 +624,7 @@ const portfolioData = {
        
             title: "Tanke ",
             description: "bicho para tankear  ",
-            image:"assets/images/arte/original/alien Tanque.png", 
+            image:"assets/images/arte/original/Alien tanque.png", 
             category: "original",
             year: 2025
         },
@@ -632,7 +632,7 @@ const portfolioData = {
           
             title: "Tanke 2 ",
             description: "bicho para tankear plus  ",
-            image:"assets/images/arte/original/Alien Tanque fase 2.png", 
+            image:"assets/images/arte/original/Alien tanque fase 2.png", 
             category: "original",
             year: 2025
         },
@@ -648,7 +648,7 @@ const portfolioData = {
          
             title: "Bestia ",
             description: "Un Bicho grande",
-            image:"assets/images/arte/original/bestia.png", 
+            image:"assets/images/arte/original/Bestia.png", 
             category: "original",
             year: 2025
         },
