@@ -108,7 +108,7 @@ const portfolioData = {
    
             title: "Goku  ",
             description: "Poster de Goku ",
-            image:"assets/images/arte/FanArts/goku.png", 
+            image:"assets/images/arte/FanArts/goku.jpg", 
             category: "fanart",
             year: 2025
         },
@@ -116,7 +116,7 @@ const portfolioData = {
      
             title: "Goku Super Sayayin  ",
             description: "Poster de Goku en SSJ",
-            image:"assets/images/arte/FanArts/gokussj1.png", 
+            image:"assets/images/arte/FanArts/gokussj1.jpg", 
             category: "fanart",
             year: 2025
         },
@@ -124,7 +124,7 @@ const portfolioData = {
         
             title: "Goku Super Sayayin 2 ",
             description: "Poster de Goku En Fase 2",
-            image:"assets/images/arte/FanArts/gokussj2.png", 
+            image:"assets/images/arte/FanArts/gokussj2.jpg", 
             category: "fanart",
             year: 2026
         },
@@ -132,7 +132,7 @@ const portfolioData = {
         
             title: "Goku Super Sayayin 3 ",
             description: "Poster de Goku En Fase 3 (omg esto va a ser epico papus)",
-            image:"assets/images/arte/FanArts/gokussj3.png", 
+            image:"assets/images/arte/FanArts/gokussj3.jpg", 
             category: "fanart",
             year: 2026
         },
@@ -140,7 +140,7 @@ const portfolioData = {
        
             title: "Vegeta Explorador  ",
             description: "Poster de Vegeta recien llegado a la tierra",
-            image:"assets/images/arte/FanArts/VExplorador.png", 
+            image:"assets/images/arte/FanArts/VExplorador.webp", 
             category: "fanart",
             year: 2025
         },
@@ -148,7 +148,7 @@ const portfolioData = {
           
             title: "Super Vegeta ",
             description: "Poster de SUPA VEGITA",
-            image:"assets/images/arte/FanArts/VegetaSuper.png", 
+            image:"assets/images/arte/FanArts/VegetaSuper.webp", 
             category: "fanart",
             year: 2025
         },
@@ -156,7 +156,7 @@ const portfolioData = {
      
             title: "Majin Vegeta ",
             description: "Kakaroto tablos esta controlando mi mentee",
-            image:"assets/images/arte/FanArts/MajinV.png", 
+            image:"assets/images/arte/FanArts/MajinV.jpg", 
             category: "fanart",
             year: 2026
         },
@@ -164,21 +164,21 @@ const portfolioData = {
        
             title: "Picoro  ",
             description: "Poster de la niñera",
-            image:"assets/images/arte/FanArts/Picoro.png", 
+            image:"assets/images/arte/FanArts/Picoro.jpg", 
             category: "fanart",
             year: 2026
         },
         {
           title: "Gohan Super Sayayin 2  ",
             description: "Poster del mejor gohan",
-            image:"assets/images/arte/FanArts/TeenGohan.png", 
+            image:"assets/images/arte/FanArts/TeenGohan.webp", 
             category: "fanart",
             year: 2026
         },
          {
           title: "Gohan Definitivo ",
             description: "Poster del vende humo",
-            image:"assets/images/arte/FanArts/gohan definitivo.png", 
+            image:"assets/images/arte/FanArts/gohan definitivo.webp", 
             category: "fanart",
             year: 2026
         },
@@ -187,7 +187,7 @@ const portfolioData = {
         
             title: "Gohan Bestia ",
             description: "Poster de pelos locos",
-            image:"assets/images/arte/FanArts/gohanBestia.png", 
+            image:"assets/images/arte/FanArts/gohanBestia.jpg", 
             category: "fanart",
             year: 2026
         },
@@ -195,7 +195,7 @@ const portfolioData = {
        
             title: "Yamcha ",
             description: "Poster de yamcha antes de que explote",
-            image:"assets/images/arte/FanArts/Yamcha.png", 
+            image:"assets/images/arte/FanArts/Yamcha.webp", 
             category: "fanart",
             year: 2025
         },
@@ -205,7 +205,7 @@ const portfolioData = {
       
             title: "Spiderman ",
             description: "Poster del hombre que araña",
-            image:"assets/images/arte/FanArts/Spiderman.png", 
+            image:"assets/images/arte/FanArts/Spiderman.webp", 
             category: "fanart",
             year: 2026
         },
@@ -213,7 +213,7 @@ const portfolioData = {
           
             title: "Spiderman Traje Negro ",
             description: "Poster del hombre que araña pero mas oscuro",
-            image:"assets/images/arte/FanArts/SpidermanBlacksuit2.png", 
+            image:"assets/images/arte/FanArts/SpidermanBlacksuit2.webp", 
             category: "fanart",
             year: 2026
         },
@@ -221,7 +221,7 @@ const portfolioData = {
         
             title: "Venom ",
             description: "Poster del Venoso",
-            image:"assets/images/arte/FanArts/Venom.png", 
+            image:"assets/images/arte/FanArts/Venom.webp", 
             category: "fanart",
             year: 2025
         },
@@ -229,7 +229,7 @@ const portfolioData = {
            
             title: "Carnage ",
             description: "Poster del Carnoso",
-            image:"assets/images/arte/FanArts/Carnage.png", 
+            image:"assets/images/arte/FanArts/Carnage.webp", 
             category: "fanart",
             year: 2026
         },
@@ -238,7 +238,7 @@ const portfolioData = {
            
             title: "Capitan America ",
             description: "Poster Del capi (trate de mesclar la estetica de civil war con la de comic)",
-            image:"assets/images/arte/FanArts/cAmerica.png", 
+            image:"assets/images/arte/FanArts/cAmerica.webp", 
             category: "fanart",
             year: 2026
         },
@@ -246,7 +246,7 @@ const portfolioData = {
             
             title: "Ironman ",
             description: "Poster del hombre de Fierro",
-            image:"assets/images/arte/FanArts/ironman.png", 
+            image:"assets/images/arte/FanArts/ironman.jpg", 
             category: "fanart",
             year: 2026
         },
@@ -254,7 +254,7 @@ const portfolioData = {
           
             title: "Ciclope ",
             description: "Poster de ciclope",
-            image:"assets/images/arte/FanArts/Ciclople.png", 
+            image:"assets/images/arte/FanArts/Ciclople.webp", 
             category: "fanart",
             year: 2025
         },
@@ -262,7 +262,7 @@ const portfolioData = {
             
             title: "Wolverine ",
             description: "Poster de aguja dinamica",
-            image:"assets/images/arte/FanArts/Wolverine.png", 
+            image:"assets/images/arte/FanArts/Wolverine.webp", 
             category: "fanart",
             year: 2025
         },
@@ -270,7 +270,7 @@ const portfolioData = {
         
             title: "Magneto ",
             description: "Poster de magneto preso",
-            image:"assets/images/arte/FanArts/Magneto.png", 
+            image:"assets/images/arte/FanArts/Magneto.jpg", 
             category: "fanart",
             year: 2025
         },
@@ -278,7 +278,7 @@ const portfolioData = {
      
             title: "Magneto (x Men)",
             description: "Poster de magneto",
-            image:"assets/images/arte/FanArts/Magneto 2.png", 
+            image:"assets/images/arte/FanArts/Magneto 2.jpg", 
             category: "fanart",
             year: 2025
         },
@@ -286,7 +286,7 @@ const portfolioData = {
     
             title: "Nanami",
             description: "Poster de Nanami ",
-            image:"assets/images/arte/FanArts/Nanami.png", 
+            image:"assets/images/arte/FanArts/Nanami.jpg", 
             category: "fanart",
             year: 2025
         },

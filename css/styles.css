@@ -984,6 +984,20 @@ body {
     transition: opacity var(--transition-base);
      pointer-events: none;
 }
+.card-image img,
+.art-item img {
+    transition: filter 0.3s ease;
+}
+
+.card-image img.loading,
+.art-item img.loading {
+    filter: blur(10px);
+}
+
+.card-image img.loaded,
+.art-item img.loaded {
+    filter: blur(0);
+}
 
 /* Mostrar info en hover */
 .art-item:hover .art-info {

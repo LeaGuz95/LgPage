@@ -91,7 +91,7 @@ class DynamicContentLoader {
     item.setAttribute('data-category', art.category);
 
     item.innerHTML = `
-        <img src="${art.image}" alt="${art.title}">
+        <img src="${art.image}"alt="${art.title}"loading="lazy"class="loading">
         <div class="art-info">
             <span class="art-category">${this.getArtCategoryName(art.category)}</span>
             <h3>${art.title}</h3>
@@ -100,8 +100,14 @@ class DynamicContentLoader {
     `;
 
     const img = item.querySelector('img');
+    
+    // Remover blur cuando cargue
+    img.addEventListener('load', () => {
+        img.classList.remove('loading');
+        img.classList.add('loaded');
+    });
+    
     img.addEventListener('click', () => {
-        // Llamar al modal global
         if (window.artGalleryInstance) {
             window.artGalleryInstance.open(art.image, art.title, art.category);
         }
