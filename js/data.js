@@ -250,6 +250,14 @@ const portfolioData = {
             category: "fanart",
             year: 2026
         },
+        {
+            
+            title: "Hulk ",
+            description: "Poster del Hulk",
+            image:"assets/images/arte/FanArts/hulk.png", 
+            category: "fanart",
+            year: 2026
+        },
          {
           
             title: "Ciclope ",
