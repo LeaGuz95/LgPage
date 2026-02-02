@@ -750,7 +750,7 @@ const portfolioData = {
         //     category: "original",
         //     year: 2025
         // },
-        // Mas arte aca
+        // Mas arte aca.
 
 
 
