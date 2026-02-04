@@ -85,26 +85,44 @@ class DynamicContentLoader {
         });
     }
     
-    createArtItem(art) {
+   createArtItem(art) {
+    const isPixelArt = art.category === 'pixelart';
+
     const item = document.createElement('div');
-    item.className = `art-item ${art.category === 'pixelart' ? 'is-pixelart' : ''}`;
+    item.className = `art-item ${isPixelArt ? 'is-pixelart' : ''}`;
     item.dataset.category = art.category;
 
+    // HTML de la imagen según tipo
+    const imgHTML = isPixelArt
+        ? `
+            <img
+                src="${art.image}"
+                alt="${art.title}"
+                loading="lazy"
+                class="loading"
+            >
+        `
+        : `
+            <img
+                src="${art.thumb}"
+                srcset="
+                    ${art.thumb} 480w,
+                    ${art.thumb2x} 960w
+                "
+                sizes="447px"
+                alt="${art.title}"
+                loading="lazy"
+                class="loading"
+                data-full="${art.full}"
+            >
+        `;
+
     item.innerHTML = `
-        <img
-            src="${art.thumb}"
-            srcset="
-                ${art.thumb} 480w,
-                ${art.thumb2x} 960w
-            "
-            sizes="447px"
-            alt="${art.title}"
-            loading="lazy"
-            class="loading"
-            data-full="${art.full}"
-        >
+        ${imgHTML}
         <div class="art-info">
-            <span class="art-category">${this.getArtCategoryName(art.category)}</span>
+            <span class="art-category">
+                ${this.getArtCategoryName(art.category)}
+            </span>
             <h3>${art.title}</h3>
             <p>${art.description}</p>
         </div>
@@ -112,14 +130,17 @@ class DynamicContentLoader {
 
     const img = item.querySelector('img');
 
+    // Estado visual de carga
     img.addEventListener('load', () => {
         img.classList.remove('loading');
         img.classList.add('loaded');
     });
 
+    // Abrir modal
     img.addEventListener('click', () => {
+        const src = isPixelArt ? art.image : img.dataset.full;
         window.artGalleryInstance?.open(
-            img.dataset.full,
+            src,
             art.title,
             art.category
         );
@@ -127,6 +148,7 @@ class DynamicContentLoader {
 
     return item;
 }
+
 
 
 

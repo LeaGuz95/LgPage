@@ -348,262 +348,262 @@ const portfolioData = {
             category: "fanart",
             year: 2025
         },
-        //  {
+          {
         
-        //     title: "Iconos ",
-        //     description: "Iconos de dbz",
-        //     image:"assets/images/arte/PixelArt/Iconos Dragon Ball.png", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
-        //  {
+            title: "Iconos ",
+            description: "Iconos de dbz",
+            image:"assets/images/arte/PixelArt/Iconos Dragon Ball.png", 
+           category: "pixelart",
+            year: 2021
+        },
+          {
           
-        //     title: "Team Sonic",
-        //     description: "Pixel art del team sonic",
-        //     image:"assets/images/arte/PixelArt/Sonic.png", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
+            title: "Team Sonic",
+             description: "Pixel art del team sonic",
+             image:"assets/images/arte/PixelArt/Sonic.png", 
+            category: "pixelart",
+             year: 2021
+         },
 
-        // {
+        {
             
-        //     title: "Team Megaman /Megaman X",
-        //     description: "Pixel art de Megaman team",
-        //     image:"assets/images/arte/PixelArt/Megaman.png", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
-        //  {
+            title: "Team Megaman /Megaman X",
+            description: "Pixel art de Megaman team",
+            image:"assets/images/arte/PixelArt/Megaman.png", 
+            category: "pixelart",
+            year: 2021
+        },
+         {
         
-        //     title: "Robot master original",
-        //     description: "Diseño de robot master para concurso (ojala salga jeje)",
-        //     image:"assets/images/arte/PixelArt/megaman concurso.png", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
+            title: "Robot master original",
+            description: "Diseño de robot master para concurso (ojala salga jeje)",
+            image:"assets/images/arte/PixelArt/megaman concurso.png", 
+            category: "pixelart",
+            year: 2021
+        },
 
-        //  {
+         {
        
-        //     title: "Ultra ego y Ultra Instinto ",
-        //     description: "Basado en el manga",
-        //     image:"assets/images/arte/PixelArt/UIUE.gif", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
-        //  {
+            title: "Ultra ego y Ultra Instinto ",
+            description: "Basado en el manga",
+            image:"assets/images/arte/PixelArt/UIUE.gif", 
+            category: "pixelart",
+            year: 2021
+        },
+         {
          
-        //     title: "SSJ3 Walk",
-        //     description: "Pixel caminante",
-        //     image:"assets/images/arte/PixelArt/ssj3walk.gif", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
-        // {
+            title: "SSJ3 Walk",
+            description: "Pixel caminante",
+            image:"assets/images/arte/PixelArt/ssj3walk.gif", 
+            category: "pixelart",
+            year: 2021
+        },
+        {
          
-        //     title: "Yamcha gif",
-        //     description: "ROGAFUFUKEN",
-        //     image:"assets/images/arte/PixelArt/yamcha.gif", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
+            title: "Yamcha gif",
+            description: "ROGAFUFUKEN",
+            image:"assets/images/arte/PixelArt/yamcha.gif", 
+            category: "pixelart",
+            year: 2024
+        },
 
-        // {
+        {
          
-        //     title: "Vegeta SSJ3",
-        //     description: "ALFIN",
-        //     image:"assets/images/arte/PixelArt/Vegeta ssj3.gif", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
+            title: "Vegeta SSJ3",
+            description: "ALFIN",
+            image:"assets/images/arte/PixelArt/Vegeta ssj3.gif", 
+            category: "pixelart",
+            year: 2024
+        },
 
-        //  {
+         {
         
-        //     title: "Goku blue",
-        //     description: "Goku cargando kii",
-        //     image:"assets/images/arte/PixelArt/Goku BLUE.gif", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
-        //   {
+            title: "Goku blue",
+            description: "Goku cargando kii",
+            image:"assets/images/arte/PixelArt/Goku BLUE.gif", 
+            category: "pixelart",
+            year: 2024
+        },
+          {
    
-        //     title: "Rock lee",
-        //     description: "Pixel del rock ",
-        //     image:"assets/images/arte/PixelArt/rocklee.png", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
+            title: "Rock lee",
+            description: "Pixel del rock ",
+            image:"assets/images/arte/PixelArt/rocklee.png", 
+            category: "pixelart",
+            year: 2024
+        },
 
-        //  {
+         {
    
-        //     title: "Goku SSJ3",
-        //     description: "Goku Con alto pelo",
-        //     image:"assets/images/arte/PixelArt/Goku SS3.gif", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
+            title: "Goku SSJ3",
+            description: "Goku Con alto pelo",
+            image:"assets/images/arte/PixelArt/Goku SS3.gif", 
+            category: "pixelart",
+            year: 2024
+        },
 
-        //    {
+           {
    
-        //     title: "Emotes ",
-        //     description: "Unos emotes que me pidio un compa",
-        //     image:"assets/images/arte/PixelArt/beto.png", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
-        // {
+            title: "Emotes ",
+            description: "Unos emotes que me pidio un compa",
+            image:"assets/images/arte/PixelArt/beto.png", 
+            category: "pixelart",
+            year: 2024
+        },
+        {
           
-        //     title: "Goku SSJ2",
-        //     description: "Goku Con pelo mas aprado",
-        //     image:"assets/images/arte/PixelArt/Gokussj2.gif", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
-        // {
+            title: "Goku SSJ2",
+            description: "Goku Con pelo mas aprado",
+            image:"assets/images/arte/PixelArt/Gokussj2.gif", 
+            category: "pixelart",
+            year: 2024
+        },
+        {
 
-        //     title: "Yamcha Flip",
-        //     description: "Saltitos",
-        //     image:"assets/images/arte/PixelArt/YamchaFlip.gif", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
-        // {
+            title: "Yamcha Flip",
+            description: "Saltitos",
+            image:"assets/images/arte/PixelArt/YamchaFlip.gif", 
+            category: "pixelart",
+            year: 2024
+        },
+        {
        
-        //     title: "Super Vegeta",
-        //     description: "Pixel art de el vegeta mr musculo",
-        //     image:"assets/images/arte/PixelArt/supa.gif", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
-        //  {
+            title: "Super Vegeta",
+            description: "Pixel art de el vegeta mr musculo",
+            image:"assets/images/arte/PixelArt/supa.gif", 
+            category: "pixelart",
+            year: 2021
+        },
+         {
   
-        //     title: "Baby Vegeta",
-        //     description: "Pixel art de Baby vegeta de db GT",
-        //     image:"assets/images/arte/PixelArt/Baby Vegeta.png", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
-        // {
+            title: "Baby Vegeta",
+            description: "Pixel art de Baby vegeta de db GT",
+            image:"assets/images/arte/PixelArt/Baby Vegeta.png", 
+            category: "pixelart",
+            year: 2021
+        },
+        {
       
-        //     title: "Kakaroto",
-        //     description: "Pixel art de kakaroto de db multiverse",
-        //     image:"assets/images/arte/PixelArt/kakarot.png", 
-        //     category: "pixelart",
-        //     year: 2020
-        // },
-        //   {
+            title: "Kakaroto",
+            description: "Pixel art de kakaroto de db multiverse",
+            image:"assets/images/arte/PixelArt/kakarot.png", 
+            category: "pixelart",
+            year: 2020
+        },
+          {
       
-        //     title: "Xicor",
-        //     description: "Pixel art de Xicor de AF",
-        //     image:"assets/images/arte/PixelArt/xicor.png", 
-        //     category: "pixelart",
-        //     year: 2020
-        // },
-        //  {
+            title: "Xicor",
+            description: "Pixel art de Xicor de AF",
+            image:"assets/images/arte/PixelArt/xicor.png", 
+            category: "pixelart",
+            year: 2020
+        },
+         {
          
-        //     title: "Goku UI",
-        //     description: "Pixel art de goku peli blanco",
-        //     image:"assets/images/arte/PixelArt/Goku UI.png", 
-        //     category: "pixelart",
-        //     year: 2020
-        // },
-        //  {
+            title: "Goku UI",
+            description: "Pixel art de goku peli blanco",
+            image:"assets/images/arte/PixelArt/Goku UI.png", 
+            category: "pixelart",
+            year: 2020
+        },
+         {
   
-        //     title: "Goku Black",
-        //     description: "Pixel art de goku rosita",
-        //     image:"assets/images/arte/PixelArt/black.png", 
-        //     category: "pixelart",
-        //     year: 2020
-        // },
-        // {
+            title: "Goku Black",
+            description: "Pixel art de goku rosita",
+            image:"assets/images/arte/PixelArt/black.png", 
+            category: "pixelart",
+            year: 2020
+        },
+        {
          
-        //     title: "Ippo",
-        //     description: "Pixel art de Ippo makanauchi",
-        //     image:"assets/images/arte/PixelArt/ippo.png", 
-        //     category: "pixelart",
-        //     year: 2020
-        // },
+            title: "Ippo",
+            description: "Pixel art de Ippo makanauchi",
+            image:"assets/images/arte/PixelArt/ippo.png", 
+            category: "pixelart",
+            year: 2020
+        },
 
-        // {
+        {
         
-        //     title: "Sendo",
-        //     description: "Pixel art de sendo",
-        //     image:"assets/images/arte/PixelArt/Sendo.png", 
-        //     category: "pixelart",
-        //     year: 2020
-        // },
-        //  {
+            title: "Sendo",
+            description: "Pixel art de sendo",
+            image:"assets/images/arte/PixelArt/Sendo.png", 
+            category: "pixelart",
+            year: 2020
+        },
+         {
     
-        //     title: "Sawamura",
-        //     description: "Pixel art de Sawamura",
-        //     image:"assets/images/arte/PixelArt/sawamura.png", 
-        //     category: "pixelart",
-        //     year: 2020
-        // },
-        // {
+            title: "Sawamura",
+            description: "Pixel art de Sawamura",
+            image:"assets/images/arte/PixelArt/sawamura.png", 
+            category: "pixelart",
+            year: 2020
+        },
+        {
       
-        //     title: "Majin Vegeta",
-        //     description: "Pixel art de Majin vegeta",
-        //     image:"assets/images/arte/PixelArt/majinVegeta.png", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
-        // {
+            title: "Majin Vegeta",
+            description: "Pixel art de Majin vegeta",
+            image:"assets/images/arte/PixelArt/majinVegeta.png", 
+            category: "pixelart",
+            year: 2021
+        },
+        {
      
-        //     title: "Yasuo",
-        //     description: "Pixel art de Yasuo del lol",
-        //     image:"assets/images/arte/PixelArt/yasuo.png", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
-        //  {
+            title: "Yasuo",
+            description: "Pixel art de Yasuo del lol",
+            image:"assets/images/arte/PixelArt/yasuo.png", 
+            category: "pixelart",
+            year: 2021
+        },
+         {
           
-        //     title: "Lux",
-        //     description: "Pixel art de Lux del lol",
-        //     image:"assets/images/arte/PixelArt/lux.png", 
-        //     category: "pixelart",
-        //     year: 2021
-        // },
-        // {
+            title: "Lux",
+            description: "Pixel art de Lux del lol",
+            image:"assets/images/arte/PixelArt/lux.png", 
+            category: "pixelart",
+            year: 2021
+        },
+        {
    
-        //     title: "Omniman",
-        //     description: "Pixel art de super vigote",
-        //     image:"assets/images/arte/PixelArt/Omniman.png", 
-        //     category: "pixelart",
-        //     year: 2022
-        // },
-        //  {
+            title: "Omniman",
+            description: "Pixel art de super vigote",
+            image:"assets/images/arte/PixelArt/Omniman.png", 
+            category: "pixelart",
+            year: 2022
+        },
+         {
       
-        //     title: "Broly",
-        //     description: "Pixel art de Broly super",
-        //     image:"assets/images/arte/PixelArt/Broly.png", 
-        //     category: "pixelart",
-        //     year: 2022
-        // },
+            title: "Broly",
+            description: "Pixel art de Broly super",
+            image:"assets/images/arte/PixelArt/Broly.png", 
+            category: "pixelart",
+            year: 2022
+        },
 
-        //  {
+         {
      
-        //     title: "kazuki kazama",
-        //     description: "Pixel art de kazuki kazama",
-        //     image:"assets/images/arte/PixelArt/kazuki.png", 
-        //     category: "pixelart",
-        //     year: 2023
-        // },
-        //    {
+            title: "kazuki kazama",
+            description: "Pixel art de kazuki kazama",
+            image:"assets/images/arte/PixelArt/kazuki.png", 
+            category: "pixelart",
+            year: 2023
+        },
+           {
           
-        //     title: "Trunks",
-        //     description: "El papu misterioso",
-        //     image:"assets/images/arte/PixelArt/Trunks.png", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
-        // {
+            title: "Trunks",
+            description: "El papu misterioso",
+            image:"assets/images/arte/PixelArt/Trunks.png", 
+            category: "pixelart",
+            year: 2024
+        },
+        {
         
-        //     title: "Black Goku",
-        //     description: "Pixel art de Black goku",
-        //     image:"assets/images/arte/PixelArt/Blackgoku.png", 
-        //     category: "pixelart",
-        //     year: 2024
-        // },
+            title: "Black Goku",
+            description: "Pixel art de Black goku",
+            image:"assets/images/arte/PixelArt/Blackgoku.png", 
+            category: "pixelart",
+            year: 2024
+        },
         //  {
        
         //     title: "Goku",

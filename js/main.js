@@ -383,20 +383,43 @@ class ArtGallery {
     }
 
     open(src, alt, category) {
-        this.imageModalImg.src = src;
-        this.imageModalImg.alt = alt;
+    // Reset estado visual
+    this.imageModalImg.classList.remove('pixelated');
+    this.imageModalImg.style.transform = 'translate(0px, 0px) scale(1)';
 
-        // Aplicar pixelated si es pixel art
-        this.imageModalImg.classList.toggle('pixelated', category === 'pixelart');
+    // Reset lógica
+    this.zoom = 1;
+    this.pos = { x: 0, y: 0 };
+    this.dragging = false;
 
-        // Reset zoom y posición
-        this.zoom = 1;
+    // Estado inicial
+    this.imageModal.classList.add('active');
+    document.body.classList.add('no-scroll');
+
+    // Cargar imagen
+    this.imageModalImg.onload = () => {
+        // Pixel art sin suavizado
+        this.imageModalImg.classList.toggle(
+            'pixelated',
+            category === 'pixelart'
+        );
+
+        // Centrar imagen
         this.pos = { x: 0, y: 0 };
+        this.zoom = 1;
         this.updateTransform();
+    };
 
-        this.imageModal.classList.add('active');
-        document.body.classList.add('no-scroll');
-    }
+    this.imageModalImg.onerror = () => {
+        console.error('Error cargando imagen:', src);
+        this.close();
+    };
+
+    // Set src al final (evita flicker)
+    this.imageModalImg.src = src;
+    this.imageModalImg.alt = alt;
+}
+
 
     close() {
         this.imageModal.classList.remove('active');
