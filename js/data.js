@@ -267,7 +267,16 @@ const portfolioData = {
             category: "fanart",
             year: 2026
         },
-       
+        {
+           
+            title: "Spiderman 2099 ",
+            description: "Poster de Miguel O'hara",
+            thumb: "assets/images/arte/FanArts/thumbs/Spiderman2099.webp",
+            thumb2x: "assets/images/arte/FanArts/thumbs/Spiderman2099-960.webp",
+            full: "assets/images/arte/FanArts/Full/Spiderman2099FULL.webp", 
+            category: "fanart",
+            year: 2026
+        },
         {
            
             title: "Capitan America ",

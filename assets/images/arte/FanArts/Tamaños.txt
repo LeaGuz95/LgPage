@@ -1,0 +1,3 @@
+    thumb: 480.webp",
+    thumb2x: 960.webp",
+    full: 1600.webp",
