@@ -368,6 +368,15 @@ const portfolioData = {
             category: "fanart",
             year: 2025
         },
+
+         {
+        
+            title: "Personajes ",
+            description: "Todos los retratos que hice para Ultra dbz",
+            image:"assets/images/arte/PixelArt/DBZ-Personajes.webp", 
+           category: "pixelart",
+            year: 2024
+        },
           {
         
             title: "Iconos ",
