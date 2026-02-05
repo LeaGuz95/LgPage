@@ -176,6 +176,17 @@ const portfolioData = {
             category: "fanart",
             year: 2026
         },
+
+         {
+     
+            title: "Vegeta Super Sayayin 3 ",
+            description: "Ultra Vegeta 1",
+            thumb: "assets/images/arte/FanArts/thumbs/VegetaSSJ3.webp",
+            thumb2x: "assets/images/arte/FanArts/thumbs/VegetaSSJ3-960.webp",
+            full: "assets/images/arte/FanArts/Full/VegetaSSJ3FULL.webp",
+            category: "fanart",
+            year: 2026
+        },
         {
        
             title: "Picoro  ",
