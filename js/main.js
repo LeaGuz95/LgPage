@@ -422,10 +422,9 @@ class ArtGallery {
 
 
     close() {
-        this.imageModal.classList.remove('active');
-        this.imageModalImg.src = '';
-        document.body.classList.remove('no-scroll');
-    }
+    this.imageModal.classList.remove('active');
+    document.body.classList.remove('no-scroll');
+}
 }
 
 // ============================================
