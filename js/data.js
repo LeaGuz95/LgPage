@@ -237,6 +237,60 @@ const portfolioData = {
             year: 2025
         },
 
+        {
+      
+            title: "Megaman ",
+            description: "Poster del Bombardero azul",
+            thumb: "assets/images/arte/FanArts/thumbs/Megaman.webp",
+            thumb2x: "assets/images/arte/FanArts/thumbs/Megaman-960.webp",
+            full: "assets/images/arte/FanArts/Full/MegamanFULL.webp",
+            category: "fanart",
+            year: 2026
+        },
+
+         {
+      
+            title: "Protoman ",
+            description: "Poster de Protoman",
+            thumb: "assets/images/arte/FanArts/thumbs/Protoman.webp",
+            thumb2x: "assets/images/arte/FanArts/thumbs/Protoman-960.webp",
+            full: "assets/images/arte/FanArts/Full/ProtomanFULL.webp",
+            category: "fanart",
+            year: 2026
+        },
+
+        {
+      
+            title: "Bass ",
+            description: "Poster del Edgy",
+            thumb: "assets/images/arte/FanArts/thumbs/Bass.webp",
+            thumb2x: "assets/images/arte/FanArts/thumbs/Bass-960.webp",
+            full: "assets/images/arte/FanArts/Full/BassFULL.webp",
+            category: "fanart",
+            year: 2026
+        },
+
+        {
+      
+            title: "X ",
+            description: "Poster de megaman pero mejor",
+            thumb: "assets/images/arte/FanArts/thumbs/x.webp",
+            thumb2x: "assets/images/arte/FanArts/thumbs/x-960.webp",
+            full: "assets/images/arte/FanArts/Full/xFULL.webp",
+            category: "fanart",
+            year: 2026
+        },
+
+         {
+      
+            title: "Zero ",
+            description: "Poster del Cerro",
+            thumb: "assets/images/arte/FanArts/thumbs/Zero.webp",
+            thumb2x: "assets/images/arte/FanArts/thumbs/Zero-960.webp",
+            full: "assets/images/arte/FanArts/Full/ZeroFULL.webp",
+            category: "fanart",
+            year: 2026
+        },
 
         {
       
