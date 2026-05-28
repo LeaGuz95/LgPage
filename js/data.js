@@ -9,17 +9,7 @@ const portfolioData = {
     // TODO PROYECTOS
     // ============================================
     projects: [
-        {
-            
-            title: "Portfolio Interactivo",
-            category: "web",
-            description: "Portfolio web interactivo para mostrar todo",
-            image: "assets/images/proyectos/Portfolio.png", 
-            technologies: ["JavaScript", "CSS3"],
-            github: "https://github.com/LeaGuz95/LgPage",
-            demo: null,
-            featured: true
-        },
+        
         {
            
             title: "Ultra Dragon Ball Z (Ikemen) W.I.P",
@@ -103,6 +93,18 @@ const portfolioData = {
             description: "Proyecto para Servicio de electronica de la  armada ",
             image: "assets/images/proyectos/SITIS.png", 
             technologies: ["C#",".Net","Api ","Swagger","Patron Repositorio" ],
+            github: "", //pendente
+            demo: null,
+            featured: true
+        },
+
+        {
+   
+            title: "Juego De Cartas",
+            category: "games",
+            description: "Intentando hacer un punto medio de  Yugioh y DyD ",
+            image: "assets/images/proyectos/Cartas.png", 
+            technologies: ["Godot" , "C#"],
             github: "", //pendente
             demo: null,
             featured: true
