@@ -95,6 +95,18 @@ const portfolioData = {
             demo: null,
             featured: true
         },
+
+        {
+   
+            title: "Sitis (Sistema para  Servicio de electronica armada)",
+            category: "web",
+            description: "Proyecto para Servicio de electronica de la  armada ",
+            image: "assets/images/proyectos/SITIS.png", 
+            technologies: ["C#",".Net","Api ","Swagger","Patron Repositorio" ],
+            github: "", //pendente
+            demo: null,
+            featured: true
+        },
         // Agrega mas proyectos facilmente
     ],
 
@@ -105,27 +117,7 @@ const portfolioData = {
    
     artGallery: [
 
-        {
-            title: "Goku ",
-            description: "Poster de Goku ",
-            thumb: "assets/images/arte/FanArts/thumbs/Goku.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/Goku-960.webp",
-            full: "assets/images/arte/FanArts/Full/GokuFULL.webp",
-            category: "fanart",
-            year: 2025
-        },
-
-       
-         {
      
-            title: "Goku Super Sayayin  ",
-            description: "Poster de Goku en SSJ",
-            thumb: "assets/images/arte/FanArts/thumbs/GokuSSJ.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/GokuSSJ-960.webp",
-            full: "assets/images/arte/FanArts/Full/GokuSSJFULL.webp",
-            category: "fanart",
-            year: 2025
-        },
         {
         
             title: "Goku Super Sayayin 2 ",
@@ -136,36 +128,8 @@ const portfolioData = {
             category: "fanart",
             year: 2026
         },
-        {
-        
-            title: "Goku Super Sayayin 3 ",
-            description: "Poster de Goku En Fase 3 (omg esto va a ser epico papus)",
-            thumb: "assets/images/arte/FanArts/thumbs/GokuSSJ3.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/GokuSSJ3-960.webp",
-            full: "assets/images/arte/FanArts/Full/GokuSSJ3FULL.webp",
-            category: "fanart",
-            year: 2026
-        },
-         {
        
-            title: "Vegeta Explorador  ",
-            description: "Poster de Vegeta recien llegado a la tierra",
-            thumb: "assets/images/arte/FanArts/thumbs/Vegeta.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/Vegeta-960.webp",
-            full: "assets/images/arte/FanArts/Full/VegetaFULL.webp",
-            category: "fanart",
-            year: 2025
-        },
-        {
-          
-            title: "Super Vegeta ",
-            description: "Poster de SUPA VEGITA",
-            thumb: "assets/images/arte/FanArts/thumbs/SuperVegeta.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/SuperVegeta-960.webp",
-            full: "assets/images/arte/FanArts/Full/SuperVegetaFULL.webp",
-            category: "fanart",
-            year: 2025
-        },
+        
         {
      
             title: "Majin Vegeta ",
@@ -177,26 +141,8 @@ const portfolioData = {
             year: 2026
         },
 
-         {
-     
-            title: "Vegeta Super Sayayin 3 ",
-            description: "Ultra Vegeta 1",
-            thumb: "assets/images/arte/FanArts/thumbs/VegetaSSJ3.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/VegetaSSJ3-960.webp",
-            full: "assets/images/arte/FanArts/Full/VegetaSSJ3FULL.webp",
-            category: "fanart",
-            year: 2026
-        },
-        {
        
-            title: "Picoro  ",
-            description: "Poster de la niñera",
-            thumb: "assets/images/arte/FanArts/thumbs/Picoro.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/Picoro-960.webp",
-            full: "assets/images/arte/FanArts/Full/PicoroFULL.webp",
-            category: "fanart",
-            year: 2026
-        },
+      
         {
           title: "Gohan Super Sayayin 2  ",
             description: "Poster del mejor gohan",
@@ -206,36 +152,8 @@ const portfolioData = {
             category: "fanart",
             year: 2026
         },
-         {
-          title: "Gohan Definitivo ",
-            description: "Poster del vende humo",
-            thumb: "assets/images/arte/FanArts/thumbs/GohanDefinitivo.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/GohanDefinitivo-960.webp",
-            full: "assets/images/arte/FanArts/Full/GohanDefinitivoFULL.webp",
-            category: "fanart",
-            year: 2026
-        },
-
-         {
-        
-            title: "Gohan Bestia ",
-            description: "Poster de pelos locos",
-            thumb: "assets/images/arte/FanArts/thumbs/GohanBestia.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/GohanBestia-960.webp",
-            full: "assets/images/arte/FanArts/Full/GohanBestiaFULL.webp", 
-            category: "fanart",
-            year: 2026
-        },
-        {
-       
-            title: "Yamcha ",
-            description: "Poster de yamcha antes de que explote",
-            thumb: "assets/images/arte/FanArts/thumbs/Yamcha.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/Yamcha-960.webp",
-            full: "assets/images/arte/FanArts/Full/YamchaFULL.webp",
-            category: "fanart",
-            year: 2025
-        },
+    
+      
 
         {
       
@@ -302,16 +220,7 @@ const portfolioData = {
             category: "fanart",
             year: 2026
         },
-        {
-          
-            title: "Spiderman Traje Negro ",
-            description: "Poster del hombre que araña pero mas oscuro",
-            thumb: "assets/images/arte/FanArts/thumbs/SpidermanBlacksuit.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/SpidermanBlacksuit-960.webp",
-            full: "assets/images/arte/FanArts/Full/SpidermanBlacksuitFULL.webp",
-            category: "fanart",
-            year: 2026
-        },
+     
          {
         
             title: "Venom ",
@@ -322,36 +231,9 @@ const portfolioData = {
             category: "fanart",
             year: 2025
         },
-         {
-           
-            title: "Carnage ",
-            description: "Poster del Carnoso",
-            thumb: "assets/images/arte/FanArts/thumbs/Carnage.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/Carnage-960.webp",
-            full: "assets/images/arte/FanArts/Full/CarnageFULL.webp", 
-            category: "fanart",
-            year: 2026
-        },
-        {
-           
-            title: "Spiderman 2099 ",
-            description: "Poster de Miguel O'hara",
-            thumb: "assets/images/arte/FanArts/thumbs/Spiderman2099.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/Spiderman2099-960.webp",
-            full: "assets/images/arte/FanArts/Full/Spiderman2099FULL.webp", 
-            category: "fanart",
-            year: 2026
-        },
-        {
-           
-            title: "Capitan America ",
-            description: "Poster Del capi (trate de mesclar la estetica de civil war con la de comic)",
-            thumb: "assets/images/arte/FanArts/thumbs/CapAmerica.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/CapAmerica-960.webp",
-            full: "assets/images/arte/FanArts/Full/CapAmericaFULL.webp",
-            category: "fanart",
-            year: 2026
-        },
+       
+      
+      
         {
             
             title: "Ironman ",
@@ -372,16 +254,7 @@ const portfolioData = {
             category: "fanart",
             year: 2026
         },
-         {
-          
-            title: "Ciclope ",
-            description: "Poster de ciclope",
-            thumb: "assets/images/arte/FanArts/thumbs/Ciclople.webp",
-            thumb2x: "assets/images/arte/FanArts/thumbs/Ciclople-960.webp",
-            full: "assets/images/arte/FanArts/Full/CiclopleFULL.webp", 
-            category: "fanart",
-            year: 2025
-        },
+       
         {
             
             title: "Wolverine ",
